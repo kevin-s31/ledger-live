@@ -21,7 +21,7 @@
   "types": "lib/index.d.ts",
   "license": "Apache-2.0",
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "rxjs": "^6.6.7",
     "utility-types": "^3.10.0"
   },
