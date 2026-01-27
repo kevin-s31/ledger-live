@@ -55,7 +55,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.2",
     "invariant": "^2.2.4",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lodash.product": "^18.9.19",
     "pako": "^2.0.4",
     "qrcode-terminal": "^0.12.0",
